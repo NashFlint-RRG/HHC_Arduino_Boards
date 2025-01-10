@@ -4,7 +4,7 @@
       "name": "RRG",
       "maintainer": "RRG",
       "websiteUrl": "http://www.arduino.cc/",
-      "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
+      "Url": "https://github.com/NashFlint-RRG/HHC_Arduino_Boards/blob/main/package_hhc.arduino-boards_index.json",
       "email": "packages@arduino.cc",
       "platforms": [
         {
@@ -15,8 +15,8 @@
           "category": "Arduino",
           "url": "https://github.com/NashFlint-RRG/HHC_Arduino_Boards/blob/main/HHC_Arduino_Boards_1.0.0.zip",
           "archiveFileName": "HHC_Arduino_Boards_1.0.0.zip",
-          "checksum": "SHA-256:ff1d17274b5a952f172074bd36c3924336baefded0232e10982f8999c2f7c3b6",
-          "size": "7127080",
+          "checksum": "SHA-256:C110E2EC43500A37BB8DA7C435FB927BCEDE50B1B9CE760F8A15D5DCE89C485F",
+          "size": "8216985",
           "boards": [
             {
               "name": "HHC DSC ATMega"
