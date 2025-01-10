@@ -4,7 +4,7 @@
       "name": "RRG",
       "maintainer": "RRG",
       "websiteUrl": "http://www.arduino.cc/",
-      "Url": "https://github.com/NashFlint-RRG/HHC_Arduino_Boards/blob/main/package_hhc.arduino-boards_index.json",
+      "Url": "https://raw.githubusercontent.com/NashFlint-RRG/HHC_Arduino_Boards/refs/heads/main/package_hhc.arduino-boards_index.json",
       "email": "packages@arduino.cc",
       "platforms": [
         {
