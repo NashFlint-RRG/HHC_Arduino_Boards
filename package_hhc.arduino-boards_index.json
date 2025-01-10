@@ -13,9 +13,9 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "Arduino",
-          "url": "https://github.com/NashFlint-RRG/HHC_Arduino_Boards/blob/main/HHC_Arduino_Boards_1.0.0.zip",
+          "url": "https://github.com/NashFlint-RRG/HHC_Arduino_Boards/raw/refs/heads/main/HHC_Arduino_Boards_1.0.0.zip",
           "archiveFileName": "HHC_Arduino_Boards_1.0.0.zip",
-          "checksum": "SHA-256:C110E2EC43500A37BB8DA7C435FB927BCEDE50B1B9CE760F8A15D5DCE89C485F",
+          "checksum": "SHA-256:c110e2ec43500a37bb8da7c435fb927bcede50b1b9ce760f8a15d5dce89c485f",
           "size": "8216985",
           "boards": [
             {
