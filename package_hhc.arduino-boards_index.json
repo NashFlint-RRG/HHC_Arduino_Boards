@@ -10,16 +10,16 @@
         {
           "name": "Arduino HHC Boards",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "deprecated": false,
           "category": "Arduino",
-          "url": "https://github.com/NashFlint-RRG/HHC_Arduino_Boards/raw/refs/heads/main/HHC_Arduino_Boards-1.0.0.zip",
-          "archiveFileName": "HHC_Arduino_Boards_1.0.0.zip",
-          "checksum": "SHA-256:2D318DDFBBBEDE5D81D07BE1432817FB400BA12A063AF382364296FA2E151E50",
-          "size": "8155661",
+          "url": "https://github.com/NashFlint-RRG/HHC_Arduino_Boards/raw/refs/heads/main/HHC_Arduino_Boards-1.0.1.zip",
+          "archiveFileName": "HHC_Arduino_Boards_1.0.1.zip",
+          "checksum": "SHA-256:137F984AE907F8D19C7A522ACF4C6ABCD06F9375EDBA91D5D2096AF2CF7278AE",
+          "size": "8155830",
           "boards": [
             {
-              "name": "HHC DSC ATMega"
+              "name": "HHC DTSC ATMega"
             },
             {
               "name": "HHC THSC ATMega"
